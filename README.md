@@ -9,3 +9,4 @@ let a = undefined;
 let b = 2;
 let c = a++;
 ```
+ชัยรัตน์ ทรัพย์สนอง (ตูน)
